@@ -44,7 +44,7 @@
 }
 
 .cabin{
-   animation:cabins 10s linear infinite;
+   animation:cabins 10s ease-in-out infinite;
    background-color:red;
    width:20%;
    height:20%;
